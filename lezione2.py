@@ -3,7 +3,7 @@ def somma_elementi():
     somma=0
     for number in my_list:
         somma=somma+number
-    print(str(somma))
+    print('la somma di elementi e:'+str(somma))
 
 somma_elementi()
 
